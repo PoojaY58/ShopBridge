@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26bfa222_002D2ecc_002D4f2a_002Da4a6_002D378fe33cb734/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="InventoryServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::73094516-86F5-4E08-8D42-1799419B2355::.NETFramework,Version=v4.6.1::ShopBridge_Tests.InventoryServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::73094516-86F5-4E08-8D42-1799419B2355::.NETFramework,Version=v4.6.1::ShopBridge_Tests.InventoryControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b28b18dc_002D11bb_002D4507_002D8c2e_002De47e24192e9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetInventoryItems_Returns_AllInventoryItems" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::73094516-86F5-4E08-8D42-1799419B2355::.NETFramework,Version=v4.6.1::ShopBridge_Tests.InventoryControllerTests.GetInventoryItems_Returns_AllInventoryItems&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
